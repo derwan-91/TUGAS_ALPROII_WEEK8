@@ -5,6 +5,8 @@ KELOMPOK
 - ANISSA LATANSA
 - SALIMA ZAHRA
 - RIZKY RAMADHAN
+- Dedeh Iryawan
+- Shofari Bagus
 
 rules
 
