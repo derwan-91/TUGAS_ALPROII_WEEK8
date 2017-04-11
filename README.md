@@ -10,7 +10,7 @@ rules
 
 1.silahkan lakukan pull request untuk bisa mengedit source code
 
-2.silahkan kawan2 mengedit di local komputernya masing2, kalo sudah running boleh diedit file yang ada direpository ini yaitu :
+2.saya sudah buat kerangkanya, silahkan kawan2 mengedit di local komputernya masing2, kalo sudah running & ok boleh diupload sourcecodenya ke repository ini yaitu :
 - main.cpp untuk program utamanya
 - header.h unutk meletakan header, fungsi, dan prosedur
 
