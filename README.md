@@ -8,6 +8,7 @@ KELOMPOK
 
 rules
 1.silahkan lakukan pull request untuk bisa mengedit source code
+
 2.silahkan kawan2 mengedit di local komputernya masing2, kalo sudah running boleh diedit file yang ada direpository ini yaitu :
 - main.cpp untuk program utamanya
 - header.h unutk meletakan header, fungsi, dan prosedur
@@ -16,6 +17,7 @@ rules
 -selection
 -bubble
 -quick(Rizky Ramadhan)
+
 4.Setiap pekerjaan diharuskan memakai komentar "//" untuk memperjelas kode.
 
 best regards for all
