@@ -1,10 +1,9 @@
 #include <iostream> // standar header unutk c++
 #include <stdio.h> //standar header untuk c
 #include <cstdlib> //header untuk keluar program exit(0);
-#include <conio.h>
+#include <conio.h> //untuk fungsi getch()
 
 using namespace std;
-
 
 /*ini adalah bagian kumpulan prosedur and function untuk sorting
  *
@@ -84,7 +83,6 @@ void s_sort(T a[],int n)
         }
 }
 //ini adalah akhir bagian selection sort
-
 
 //ini adalah bagian quick sort
 void quick_sort(int[],int,int);
