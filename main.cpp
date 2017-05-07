@@ -4,6 +4,7 @@ int main()
     int IndexMenu;
     int a[100],i,n,j,temp;
         do{
+            cout<<endl;
             cout<<"                                   Alpro II Task 1 Week 8                               "<<endl;
             cout<<"                                             By                                         "<<endl;
             cout<<"Anisa Latansa | Salima Zahra | Jovial Fachrul | Rizky Ramadhan | Dedeh Iryawan | Shofari"<<endl;
